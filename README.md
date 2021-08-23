@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 TODO
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://blog.zaitz.tk)
+➡️ [more blog posts...](https://zaitz.tk)
 
 ---
 

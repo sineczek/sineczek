@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-TODO
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://zaitz.tk)

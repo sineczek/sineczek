@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Hello World !](http://stronadomowa.herokuapp.com/post/13)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://zaitz.tk)

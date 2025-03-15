@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Michał - aka [SInQ][website] 👋
 
-[![Website](https://img.shields.io/website?label=zaitz.tk&style=for-the-badge&url=https%3A%2F%2Fzaitz.tk)](https://zaitz.tk)
+[![Website](https://img.shields.io/website?label=zaitz.tk&style=for-the-badge&url=https%3A%2F%2Fzaitz.tk)](https://sinq.cc)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MichalZaitz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsineczek&screen_name=michalzaitz)
 
 

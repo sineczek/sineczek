@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Michał - aka [SInQ][website] 👋
+### Hi there, I'm Michał - aka [SInQ][sinq.cc] 👋
 
 [![Website](https://img.shields.io/website?label=sinq.cc&style=for-the-badge&url=https%3A%2F%2Fsinq.cc)](https://sinq.cc)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MichalZaitz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsineczek&screen_name=michalzaitz)
@@ -35,15 +35,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Hello World !](http://stronadomowa.herokuapp.com/post/14)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://zaitz.tk)
-
----
 
 [website]: http://zaitz.tk
 [twitter]: https://twitter.com/MichalZaitz

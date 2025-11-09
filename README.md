@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on my website
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: become automation tester with Python
 - ⚡ Fun fact: I used to be an archeologist.
 
 ### Connect with me:
@@ -36,7 +34,7 @@ Here are some ideas to get you started:
 ---
 
 
-[website]: http://zaitz.tk
+[website]: http://sinq.cc
 [twitter]: https://twitter.com/MichalZaitz
 [instagram]: https://instagram.com/michalzaitz
 [linkedin]: https://linkedin.com/in/michal-zaitz

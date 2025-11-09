@@ -29,7 +29,7 @@
 ### 🏗️ Featured Projects
 
 - 🔌 [Home Assistant Config](https://github.com/sineczek/HomeAssistant) — My personal smart home setup with 30+ HACS integrations, Smart Irrigation, Netatmo, OpenWeather, and more.
-- 🧠 Proxmox Cluster — Managing a 3-node cluster: `theeyez`, `thebrainz`, and `the-Head` for self-hosted services and automation.
+- 🧠 Proxmox Cluster — Managing a 3-node cluster: `theeyez`, `thebrainz`, and `thehead` for self-hosted services and automation.
 - 🌐 [sinq.cc](https://sinq.cc) — My personal website and blog (WIP).
 
 ---
